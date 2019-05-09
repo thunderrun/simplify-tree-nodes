@@ -1,0 +1,16 @@
+{
+  "name": "simplify-tree-nodes",
+  "version": "0.1.0",
+  "description": "Replace child nodes' keys with top level parent node's key by given tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-includes-all": "^2.0.0",
+    "lodash": "^4.17.11",
+    "tree-model": "^1.0.7"
+  }
+}
