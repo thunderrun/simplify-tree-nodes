@@ -31,5 +31,5 @@ const childKeys = ['0-0-0', '0-1-0', '0-1-1', '0-1-2'];
 
 const keys = simplifyTreeNodes(childKeys, treeData);
 
-// keys: ['0-0-0']
+// keys: ['0-0-0', '0-1']
 ```
